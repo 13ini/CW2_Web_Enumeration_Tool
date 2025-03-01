@@ -1,0 +1,15 @@
+requests
+beautifulsoup4
+scapy
+dnspython
+argparse
+sqlalchemy
+pymysql
+flask
+flask-login
+pytest
+unittest
+mysql-connector-python 
+bcrypt 
+jwt 
+socket

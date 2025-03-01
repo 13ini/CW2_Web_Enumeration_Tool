@@ -1,0 +1,7 @@
+{
+    "subdomains": [],
+    "open_ports": [
+        80,
+        443
+    ]
+}
